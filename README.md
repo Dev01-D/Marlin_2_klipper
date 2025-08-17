@@ -78,30 +78,7 @@ python3 marlin2klipper.py
 dpkg-deb --build debian/marlin2klipper
 ```
 
----
 
-## 📸 Screenshots
-
-_Add screenshots of the app window and the icon here._
-
----
-
-## 🛠 Roadmap
-
-- [ ] Configurable mesh name (instead of always `default`).
-- [ ] Configurable macro names (e.g. `START_PRINT`, `END_PRINT`).
-- [ ] Batch convert entire folders of G-code.
-- [ ] More vendor-specific Marlin command coverage (Prusa, Creality, etc.).
-- [ ] Windows/macOS ports if GTK4 bindings permit.
-
----
-
-## 🤝 Contributing
-
-Pull requests and issues are welcome.  
-If you find a Marlin command that doesn’t convert properly, please:
-- Open an **issue** with the G-code line included, or
-- Submit a **PR** with an added rule in `marlin2klipper.py`.
 
 ---
 
@@ -113,7 +90,7 @@ Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
 
 ## 🙌 Credits
 
-Created by **Geoffrey Palmer** ([@Dev01-D](https://github.com/Dev01-D))  
+Created by **Sabitech** ([@Dev01-D](https://github.com/Dev01-D))  
 With thanks to the **Klipper** and **Marlin** communities for their great firmware.
 
 ---
