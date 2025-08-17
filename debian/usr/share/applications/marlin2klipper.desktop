@@ -1,0 +1,8 @@
+
+[Desktop Entry]
+Name=Marlin → Klipper G-code Converter
+Exec=marlin2klipper
+Icon=marlin2klipper
+Type=Application
+Categories=Utility;
+Terminal=false

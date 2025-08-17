@@ -1,0 +1,10 @@
+
+Package: marlin2klipper
+Version: 2.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-gi, gir1.2-gtk-4.0
+Maintainer: Geoffrey Palmer <geoffreypalmer@hollandandbarrett.com>
+Description: Drag-and-drop converter for Marlin -> Klipper G-code (Pro)
+ Converts a broad set of Marlin commands into Klipper-friendly gcode with safe notes for items that require printer.cfg.
